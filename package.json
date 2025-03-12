@@ -27,6 +27,11 @@
       "react-app/jest"
     ]
   },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
