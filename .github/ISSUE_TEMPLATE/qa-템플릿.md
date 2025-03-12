@@ -2,12 +2,11 @@
 name: qa 템플릿
 about: Describe this issue template's purpose here.
 title: "[기기-브라우저-가로사이즈-페이지명] 이슈 내용"
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
-##  버그 설명
+## 버그 설명
 
 버그에 대한 명확하고 간결한 설명해주세요.
 
