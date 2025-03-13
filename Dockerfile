@@ -8,7 +8,7 @@ RUN npm cache clean --force
 RUN npm install --legacy-peer-deps
 RUN npm ci --legacy-peer-deps
 
-COPY . .
+COPY krampoline/ ./
 
 RUN npm run build
 
